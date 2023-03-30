@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Correa para perro",
+		"description": "5 metros",
+		"price": 3500,
+		"thumbnail": "www.correa...",
+		"code": 1000,
+		"stock": 30
+	},
+	{
+		"id": 2,
+		"title": "Comida para ave",
+		"description": "1 Kg",
+		"price": 4500,
+		"thumbnail": "www.com...",
+		"code": 1001,
+		"stock": 50
+	}
+]
