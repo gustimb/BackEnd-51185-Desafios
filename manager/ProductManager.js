@@ -11,7 +11,7 @@ export default class ProductManager {
         if (fs.existsSync(this.path)) {
             const data = await fs.promises.readFile(this.path, 'utf-8');
             const products = JSON.parse(data);
-            console.log(products)
+            console.log(products);
             return products;
         } else {
             return [];
@@ -19,6 +19,7 @@ export default class ProductManager {
     }
 
     addProduct = async (title, description, price, thumbnail, code, stock) => {
+
         const productos = await this.getProducts();
 
         let producto = {
@@ -46,8 +47,8 @@ export default class ProductManager {
         const productos = await this.getProducts();
 
         let procutoBuscado = productos.find(procutoBuscado => procutoBuscado.id === id)
+        console.log(procutoBuscado);
         if (procutoBuscado) {
-            console.log(procutoBuscado)
             return procutoBuscado
         }
         else {
@@ -56,9 +57,12 @@ export default class ProductManager {
     }
 
     updateProduct = async (id, title, description, price, thumbnail, code, stock) => {
-        const productos = await this.getProducts();
 
-        let modProducto = {
+        const productToUpdate = await this.getProductById(id);
+
+        console.log(productToUpdate.id)
+
+        let producto = {
             id: id,
             title: title,
             description: description,
@@ -68,42 +72,24 @@ export default class ProductManager {
             stock: stock
         }
 
-        let validacionId = productos.find(validacionId => validacionId.id === id)
+        console.log(producto)
 
-        if (validacionId) {
-            const productToUpdate = await this.deleteProduct(validacionId.id)
-            console.log("SSSS")
-            productToUpdate.push(modProducto)
-            console.log(productToUpdate)
-            await fs.promises.writeFile(this.path, JSON.stringify(productToUpdate, null, '\t'))
-        } else {
-            console.log('El ID a modificar no existe.')
-        }
-    }
+        // await fs.promises.appendFileSync(this.path, producto);
 
-    deleteProduct = async (id) => {
-        const productos = await this.getProducts();
 
-        let validacionId = productos.find(producto => producto.id === id)
 
-        if (validacionId) {
-            const productToDelete = productos.filter(id => id.id != validacionId.id)
-            await fs.promises.unlink(this.path)
-            await fs.promises.writeFile(this.path, JSON.stringify(productToDelete, null, '\t'))
-            return productToDelete
-        } else {
-            console.log('El ID a eliminar no existe.')
-        }
+
     }
 }
 
+
 const AgregaProductos = new ProductManager();
-// AgregaProductos.addProduct('Correa para perro', '5 metros', 3500, 'www.correa...', 1000, 30);
-// AgregaProductos.addProduct('Comida para ave', '1 Kg', 4500, 'www.com...', 1001, 50);
+AgregaProductos.addProduct('Correa para perro', '5 metros', 3500, 'www.correa...', 1000, 30);
+AgregaProductos.addProduct('Comida para ave', '1 Kg', 4500, 'www.com...', 1001, 50);
 // AgregaProductos.addProduct('Comida para gato', '3 Kg', 3600, 'www.com...', 1002, 50);
 // AgregaProductos.addProduct('Hueso de juguete', 'Fabricado en plástico resistente', 2400, 'www.correa...', 1003, 50);
 
-// console.log(AgregaProductos.getProducts())
-// console.log(AgregaProductos.getProductById(1))
-// console.log(AgregaProductos.updateProduct(3, 'Hueso de juguete', 'Fabricado en plástico resistente', 2400, 'www.correa...', 1003, 50))
-// console.log(AgregaProductos.deleteProduct(2))
+AgregaProductos.getProducts()
+console.log(AgregaProductos.getProductById(2))
+console.log(AgregaProductos.updateProduct(2, 'Hueso de juguete', 'Fabricado en plástico resistente', 2400, 'www.correa...', 1003, 50))
+
