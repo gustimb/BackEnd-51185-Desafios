@@ -1,0 +1,58 @@
+[
+	{
+		"title": "12",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"status": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": [
+			"a",
+			"b"
+		],
+		"id": 1
+	},
+	{
+		"title": "12",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"status": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": [
+			"a",
+			"b"
+		],
+		"id": 2
+	},
+	{
+		"title": "DDDDDDD",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"status": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": [
+			"a",
+			"b"
+		],
+		"id": 3
+	},
+	{
+		"title": "973249872304",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"status": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": [
+			"aaaa",
+			"bbbb"
+		],
+		"id": 4
+	}
+]
