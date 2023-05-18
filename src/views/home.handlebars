@@ -1,0 +1,24 @@
+<h1>PRODUCTOS</h1>
+
+<div id="divProductos">
+
+    {{#each products}}
+    <p>{{this.title}} </p>
+    <p>{{this.price}} </p>
+    <hr>
+    {{/each}}
+
+    {{#if hasPrevPage}}
+    <a href="/?limit={{limit}}&page={{prevPage}}"><button>Página anterior</button></a>
+    {{/if}}
+
+    {{#if hasNextPage}}
+    <a href="/?limit={{limit}}&page={{nextPage}}"><button>Página siguiente</button></a>
+    {{/if}}
+
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/home.js"></script>
+
+{{!-- limit={{limit}}/ --}}

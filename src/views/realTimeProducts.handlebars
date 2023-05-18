@@ -1,0 +1,57 @@
+<h1>PRODUCTOS EN TIEMPO REAL</h1>
+
+{{!-- action="/api/products" method="post" --}}
+
+<div>
+    <form>
+        <ul>
+            <li>
+                <label for="title">Nombre del producto:</label>
+                <input type="text" id="productName" name="title">
+            </li>
+            <li>
+                <label for="description">Descripción del producto:</label>
+                <input type="text" id="productDescription" name="description">
+            </li>
+            <li>
+                <label for="code">Código del producto:</label>
+                <input type="text" id="productCode" name="code">
+            </li>
+            <li>
+                <label for="price">Precio del producto:</label>
+                <input type="text" id="productPrice" name="price">
+            </li>
+            <li>
+                <label for="status">Estatus del producto:</label>
+                <input type="text" id="productStatus" name="status">
+            </li>
+            <li>
+                <label for="stock">Stock del producto:</label>
+                <input type="text" id="productStock" name="stock">
+            </li>
+            <li>
+                <label for="category">Categoría del producto:</label>
+                <input type="text" id="productCategory" name="category">
+            </li>
+            <li>
+                <label for="thumbnail">URL imágen del producto:</label>
+                <input type="text" id="productThumbnail" name="thumbnail">
+            </li>
+        </ul>
+        <button id="btnAddProducts" type="submit">Agregar producto</button>
+    </form>
+</div>
+
+<hr>
+
+<div>
+<input type="string" id="idToDelete">
+<button id="btnDeleteProduct" type="button">Eliminar producto</button>
+</div>
+
+<hr>
+
+<div id="divProductos"></div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/realTimeProducts.js"></script>
