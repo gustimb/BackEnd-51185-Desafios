@@ -1,0 +1,562 @@
+Fecha: 10/5/2023 - Hora: 20:47:59 - Metodo: GET PRODUCT
+Fecha: 10/5/2023 - Hora: 20:48:43 - Metodo: GET PRODUCT
+Fecha: 10/5/2023 - Hora: 20:48:51 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 21:38:01 - Metodo: GET PRODUCT
+Fecha: 10/5/2023 - Hora: 21:38:48 - Metodo: POST PRODUCT
+Fecha: 10/5/2023 - Hora: 21:39:31 - Metodo: POST PRODUCT
+Fecha: 10/5/2023 - Hora: 21:41:22 - Metodo: POST PRODUCT
+Fecha: 10/5/2023 - Hora: 21:54:59 - Metodo: Se agregó producto
+Fecha: 10/5/2023 - Hora: 22:04:07 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:14:27 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:14:54 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:31:03 - Metodo: Productos con límite de vista: 2
+Fecha: 10/5/2023 - Hora: 22:31:15 - Metodo: Productos con límite de vista: 3
+Fecha: 10/5/2023 - Hora: 22:32:25 - Metodo: Consulta producto por ID: 645c3ce39a00e73e1a64af62
+Fecha: 10/5/2023 - Hora: 22:35:38 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:35:38 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:35:39 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:35:40 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:35:41 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:35:42 - Metodo: Se agregó producto con éxito
+Fecha: 10/5/2023 - Hora: 22:35:51 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:36:28 - Metodo: Se ha eliminado el producto con ID: 645c39b2a2ac9bde4e638302
+Fecha: 10/5/2023 - Hora: 22:44:36 - Metodo: Se ha actualizado el producto con ID: 645c39b2a2ac9bde4e638302
+Fecha: 10/5/2023 - Hora: 22:45:18 - Metodo: Se ha actualizado el producto con ID: 645c39b2a2ac9bde4e638302
+Fecha: 10/5/2023 - Hora: 22:45:23 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:45:34 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:45:35 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:45:36 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:46:03 - Metodo: Consulta producto por ID: 645c39b2a2ac9bde4e638302
+Fecha: 10/5/2023 - Hora: 22:46:32 - Metodo: Se ha actualizado el producto con ID: 645c39b2a2ac9bde4e638302
+Fecha: 10/5/2023 - Hora: 22:47:21 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:47:27 - Metodo: Consulta producto por ID: 645c3ce39a00e73e1a64af62
+Fecha: 10/5/2023 - Hora: 22:47:35 - Metodo: Se ha actualizado el producto con ID: 645c3ce39a00e73e1a64af62
+Fecha: 10/5/2023 - Hora: 22:47:43 - Metodo: Consulta producto por ID: 645c3ce39a00e73e1a64af62
+Fecha: 10/5/2023 - Hora: 22:47:55 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:47:59 - Metodo: Consulta producto por ID: 645c3ce39a00e73e1a64af62
+Fecha: 10/5/2023 - Hora: 22:50:16 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:50:21 - Metodo: Consulta producto por ID: 645c3f0750f141ba0a7d356a
+Fecha: 10/5/2023 - Hora: 22:50:24 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:51:41 - Metodo: Se ha actualizado el producto con ID: 645c3f0750f141ba0a7d356a
+Fecha: 10/5/2023 - Hora: 22:51:49 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:52:15 - Metodo: Consulta producto por ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:52:17 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:53:09 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:53:46 - Metodo: Se ha actualizado el producto con ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:53:52 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:54:43 - Metodo: Se ha actualizado el producto con ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:54:48 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:55:08 - Metodo: Se ha actualizado el producto con ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:55:17 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:55:31 - Metodo: Se ha actualizado el producto con ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:57:21 - Metodo: Consulta producto por ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:58:06 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:58:19 - Metodo: Consulta producto por ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:58:47 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:58:47 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 22:59:39 - Metodo: Se ha actualizado el producto con ID: 645c4669fead276acce52eaf
+Fecha: 10/5/2023 - Hora: 22:59:43 - Metodo: Consulta productos
+Fecha: 10/5/2023 - Hora: 23:01:35 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:10:26 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:12:00 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:12:00 - Metodo: Consulta carritos
+Fecha: 10/5/2023 - Hora: 23:26:20 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:26:28 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:26:28 - Metodo: Consulta carritos
+Fecha: 10/5/2023 - Hora: 23:26:31 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:26:31 - Metodo: Consulta carritos
+Fecha: 10/5/2023 - Hora: 23:28:45 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:30:58 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:33:30 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:34:01 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:34:01 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:34:59 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:36:18 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:36:21 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:36:26 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:36:27 - Metodo: Consulta carritos
+Fecha: 10/5/2023 - Hora: 23:37:43 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:37:51 - Metodo: Se creó carrito con éxito
+Fecha: 10/5/2023 - Hora: 23:38:05 - Metodo: GET CART
+Fecha: 10/5/2023 - Hora: 23:38:06 - Metodo: Consulta carritos
+Fecha: 10/5/2023 - Hora: 23:55:16 - Metodo: Consulta carritos
+Fecha: 10/5/2023 - Hora: 23:55:29 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 00:08:26 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 00:08:28 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 00:08:29 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 00:08:38 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 00:08:40 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 00:18:24 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 00:27:56 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:17:46 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:19:47 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:20:00 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:21:59 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:22:02 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:22:56 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:22:57 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:22:58 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:22:59 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:23:15 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:25:47 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:26:20 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:26:22 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:26:40 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:27:02 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:27:06 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:29:18 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:29:26 - Metodo: Se creó carrito con éxito
+Fecha: 11/5/2023 - Hora: 02:29:33 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:31:14 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 02:31:57 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:47:46 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:47:48 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:47:50 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:47:53 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:47:55 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:47:56 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 02:49:30 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:07:53 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:08:03 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:08:04 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:08:06 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:08:08 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:09:18 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:09:20 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:11:50 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:11:51 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:11:52 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:12:58 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:13:00 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:13:01 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:13:23 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 03:13:24 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 03:13:25 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 03:15:13 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:15:20 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:16:17 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:16:20 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:17:51 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:18:21 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:18:39 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:18:40 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:18:41 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:18:45 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:20:33 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:20:48 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:21:27 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:21:28 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:21:33 - Metodo: Consulta productos
+Fecha: 11/5/2023 - Hora: 03:21:39 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:21:41 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:21:42 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:22:33 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:22:38 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:23:59 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:27:16 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:37:29 - Metodo: Consulta carritos
+Fecha: 11/5/2023 - Hora: 03:52:05 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:52:09 - Metodo: Número de carrito inválido
+Fecha: 11/5/2023 - Hora: 03:52:57 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:53:02 - Metodo: Número de carrito inválido
+Fecha: 11/5/2023 - Hora: 03:54:23 - Metodo: Número de carrito inválido
+Fecha: 11/5/2023 - Hora: 03:55:28 - Metodo: Producto agregado a carrito
+Fecha: 11/5/2023 - Hora: 03:58:38 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 10:35:05 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:37:41 - Metodo: Consulta productos
+Fecha: 16/5/2023 - Hora: 10:39:48 - Metodo: Se creó carrito con éxito
+Fecha: 16/5/2023 - Hora: 10:40:00 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:45:45 - Metodo: Se creó carrito con éxito
+Fecha: 16/5/2023 - Hora: 10:45:52 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:48:55 - Metodo: Se creó carrito con éxito
+Fecha: 16/5/2023 - Hora: 10:49:44 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:49:47 - Metodo: Consulta productos
+Fecha: 16/5/2023 - Hora: 10:51:01 - Metodo: Se creó carrito con éxito
+Fecha: 16/5/2023 - Hora: 10:51:07 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:51:55 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 10:52:01 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:52:22 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 10:52:25 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:52:27 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 10:52:30 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:52:41 - Metodo: Número de carrito inválido
+Fecha: 16/5/2023 - Hora: 10:52:59 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 10:56:10 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:07:13 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:08:46 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:09:22 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:09:42 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:13:30 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:17:50 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:18:15 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:29:46 - Metodo: Producto agregado a carrito
+Fecha: 16/5/2023 - Hora: 11:29:51 - Metodo: Consulta carritos
+Fecha: 16/5/2023 - Hora: 13:22:57 - Metodo: Consulta carritos
+Fecha: 17/5/2023 - Hora: 23:35:52 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 01:36:18 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 02:06:54 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 06:06:05 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 06:39:49 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 06:45:41 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 06:45:43 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 06:46:24 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:04:16 - Metodo: Producto agregado a carrito
+Fecha: 18/5/2023 - Hora: 07:04:21 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:04:43 - Metodo: Producto agregado a carrito
+Fecha: 18/5/2023 - Hora: 07:04:44 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:05:48 - Metodo: Producto agregado a carrito
+Fecha: 18/5/2023 - Hora: 07:39:47 - Metodo: Producto borrado del carrito
+Fecha: 18/5/2023 - Hora: 07:39:52 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:39:54 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:39:56 - Metodo: Producto borrado del carrito
+Fecha: 18/5/2023 - Hora: 07:39:57 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:39:59 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:01 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:01 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:02 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:03 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:06 - Metodo: Producto borrado del carrito
+Fecha: 18/5/2023 - Hora: 07:40:08 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:09 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 07:40:58 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 16:41:40 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 16:41:46 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 16:50:59 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 16:51:00 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:48:27 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:48:29 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:48:30 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:48:31 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:48:32 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:58:20 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:59:19 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:59:24 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:59:29 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 18:59:36 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 19:00:12 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:13 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:15 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:16 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:17 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:17 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:18 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:19 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:20 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:21 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:22 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 19:00:24 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 19:00:42 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 19:00:43 - Metodo: Consulta productos
+Fecha: 18/5/2023 - Hora: 19:05:43 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 19:05:50 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 19:05:54 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:32:08 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:32:14 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:32:16 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:34:44 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:34:46 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:34:46 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:35:58 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 20:43:43 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 20:43:47 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:04:49 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:04:52 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:23:10 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 21:23:13 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:24:33 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:32:41 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:43:36 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:48:13 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 21:48:16 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 21:49:29 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 21:49:31 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 22:05:02 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 22:05:04 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 22:05:11 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 22:05:12 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 22:05:22 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 22:05:25 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 22:05:29 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 22:05:30 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:49:07 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:49:09 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:51:09 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 23:51:11 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:51:14 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:51:22 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 23:51:24 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:51:28 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 23:51:30 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:51:36 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:51:52 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:52:30 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:52:32 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:52:38 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:52:40 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:52:43 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:52:45 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:53:01 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 23:53:03 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:53:06 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 23:53:07 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:53:09 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 23:53:11 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:53:13 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 23:53:16 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:53:31 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:53:54 - Metodo: Producto quitado del carrito
+Fecha: 18/5/2023 - Hora: 23:53:55 - Metodo: Producto eliminado del carrito
+Fecha: 18/5/2023 - Hora: 23:53:57 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:54:02 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:54:04 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:54:06 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:54:08 - Metodo: Consulta carritos
+Fecha: 18/5/2023 - Hora: 23:54:09 - Metodo: Producto agregado al carrito
+Fecha: 18/5/2023 - Hora: 23:54:11 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:03:05 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:03:05 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:03:07 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:04:27 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:09:08 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:09:13 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:09:42 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:09:44 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:09:50 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:09:51 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:10:00 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:10:01 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:12:03 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:12:06 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:12:13 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:12:15 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:14:02 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:14:04 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:14:06 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:14:07 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:14:17 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:14:18 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:15:45 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:15:50 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:15:52 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:15:53 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:15:54 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:15:56 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:15:57 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:15:59 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:16:03 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 00:16:04 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:17:28 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:17:29 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:17:39 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:17:40 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:18:02 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:18:04 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:18:17 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 00:18:20 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:18:24 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:18:26 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:19:28 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 00:19:30 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:19:36 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:19:37 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:19:42 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 00:19:44 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:21:08 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:21:10 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:21:13 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:21:15 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:21:35 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:21:36 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:21:39 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:21:41 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 00:21:42 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:21:47 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 00:21:49 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 00:59:38 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:00:26 - Metodo: 1[object Object] productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:00:29 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:00:34 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:12:29 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:12:31 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:12:33 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:14:09 - Metodo: 6 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:14:12 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:18:13 - Metodo: 3 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:18:17 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:18:31 - Metodo: 0 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:18:33 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:18:45 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:19:03 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:19:06 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:19:07 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:19:09 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:20:38 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:20:42 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:20:43 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:20:48 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:20:49 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:20:59 - Metodo: 1 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:21:00 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:21:02 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:21:04 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:21:09 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:21:13 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:21:14 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:21:16 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:34:48 - Metodo: Productos eliminados del carrito
+Fecha: 19/5/2023 - Hora: 01:34:50 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:36:01 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:36:03 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:36:04 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:36:15 - Metodo: 6 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:36:19 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:38:31 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:38:34 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:38:37 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:38:39 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:38:40 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:38:59 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:39:02 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:39:07 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:39:09 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:39:32 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:39:34 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:39:37 - Metodo: 5 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:39:39 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:40:05 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:40:07 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:40:09 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:40:10 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:40:11 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:40:12 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:40:18 - Metodo: Producto agregado al carrito
+Fecha: 19/5/2023 - Hora: 01:40:19 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:40:26 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:40:32 - Metodo: 4 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:40:33 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:40:46 - Metodo: 1 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:40:48 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:40:59 - Metodo: 4 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:41:02 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:43:11 - Metodo: 6 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:43:14 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:43:26 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:43:27 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:43:29 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:43:30 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:43:31 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:43:33 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:43:34 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:43:36 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:43:37 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:44:11 - Metodo: 1 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:44:13 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:44:19 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:44:20 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:44:28 - Metodo: 2 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:44:30 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:44:35 - Metodo: Producto quitado del carrito
+Fecha: 19/5/2023 - Hora: 01:44:36 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:44:38 - Metodo: Producto eliminado del carrito
+Fecha: 19/5/2023 - Hora: 01:44:40 - Metodo: Consulta carritos
+Fecha: 19/5/2023 - Hora: 01:44:48 - Metodo: 7 productos agregados al carrito
+Fecha: 19/5/2023 - Hora: 01:44:50 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 05:48:53 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 05:49:34 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 05:59:54 - Metodo: Consulta productos
+Fecha: 20/5/2023 - Hora: 06:06:41 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:10:25 - Metodo: Consulta productos
+Fecha: 20/5/2023 - Hora: 06:16:30 - Metodo: Consulta productos
+Fecha: 20/5/2023 - Hora: 06:16:31 - Metodo: Consulta productos
+Fecha: 20/5/2023 - Hora: 06:16:32 - Metodo: Consulta productos
+Fecha: 20/5/2023 - Hora: 06:17:00 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:19:14 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:19:17 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:19:34 - Metodo: Consulta productos
+Fecha: 20/5/2023 - Hora: 06:19:37 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:28:14 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:28:19 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:28:26 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:28:28 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:28:37 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:28:39 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:29:52 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:29:54 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:30:01 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:30:03 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:31:13 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:31:14 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:32:15 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:37:26 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:37:27 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:37:29 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:37:30 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:37:32 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:37:33 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:37:40 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:37:42 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:37:43 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:37:44 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:37:45 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:38:33 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:38:44 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:42:42 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:42:44 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:42:49 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:46:41 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:46:42 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:47:00 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:47:23 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:47:25 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:48:26 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:48:30 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:48:31 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:55:51 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:56:26 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:56:28 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:57:39 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:57:46 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:57:48 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:57:52 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:57:54 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:58:55 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 06:58:56 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:59:01 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 06:59:02 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 06:59:15 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:59:48 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 06:59:52 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:00:04 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:00:06 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:01:04 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:01:05 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:01:08 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:01:09 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:01:14 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 07:01:15 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 07:01:16 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 07:01:17 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:05:46 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:05:47 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:05:50 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:05:51 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:05:59 - Metodo: Producto quitado del carrito
+Fecha: 20/5/2023 - Hora: 07:06:00 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:06:01 - Metodo: Producto quitado del carrito
+Fecha: 20/5/2023 - Hora: 07:06:04 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:06:06 - Metodo: Producto eliminado del carrito
+Fecha: 20/5/2023 - Hora: 07:06:06 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:06:22 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 07:07:47 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:07:49 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 07:07:54 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:07:59 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:08:02 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:08:03 - Metodo: Consulta carritos
+Fecha: 20/5/2023 - Hora: 07:08:05 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 07:08:13 - Metodo: Producto agregado al carrito
+Fecha: 20/5/2023 - Hora: 07:08:15 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 07:10:38 - Metodo: 7 productos agregados al carrito
+Fecha: 20/5/2023 - Hora: 07:10:42 - Metodo: Carrito por ID
+Fecha: 20/5/2023 - Hora: 07:10:51 - Metodo: 2 productos agregados al carrito
+Fecha: 20/5/2023 - Hora: 07:10:53 - Metodo: Carrito por ID
