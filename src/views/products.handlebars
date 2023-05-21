@@ -1,0 +1,22 @@
+<h1>PRODUCTOS</h1>
+
+<div id="divProductos"></div>
+
+{{#each products}}
+<p>Producto: {{this.title}} </p>
+<p>Precio: ${{this.price}} </p>
+<a href=""><button>Agregar al carrito</button></a>
+<a href="/products/{{this._id}}"><button>Detalles</button></a>
+<hr>
+{{/each}}
+
+{{#if hasPrevPage}}
+<a href="/products/?limit={{limit}}&page={{prevPage}}"><button>Página anterior</button></a>
+{{/if}}
+
+{{#if hasNextPage}}
+<a href="/products/?limit={{limit}}&page={{nextPage}}"><button>Página siguiente</button></a>
+{{/if}}
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/products.js"></script>
