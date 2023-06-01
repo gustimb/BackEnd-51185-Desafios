@@ -1,0 +1,2 @@
+Fecha: 30/5/2023 - Hora: 04:06:51 - Metodo: Consulta carritos
+Fecha: 30/5/2023 - Hora: 04:07:06 - Metodo: Carrito por ID
