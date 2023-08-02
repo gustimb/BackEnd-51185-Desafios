@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Producto 1",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"status": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": [
+			"a",
+			"b"
+		],
+		"id": 1
+	},
+	{
+		"title": "qwqeq",
+		"description": "weqweqw",
+		"code": "eqweqwe",
+		"price": "qweqweqw",
+		"status": "eqweqwe",
+		"stock": "qweqwe",
+		"category": "qweqweqwe",
+		"id": 2
+	}
+]
