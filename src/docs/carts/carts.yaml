@@ -1,0 +1,254 @@
+paths:
+  /api/carts/:
+    get:
+      summary: Obtener todos los carritos
+      tags:
+        - Carritos
+      responses:
+        "200":
+          description: Todos los carritos fueron obtenidos correctamente
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#components/schemas/Cart'
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+    post:
+      summary: Crear carrito
+      tags:
+        - Carritos
+      responses:
+        "200":
+          description: Se creó el carrito correctamente
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#components/schemas/Cart'
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+  /api/carts/{cid}:
+    get:
+      summary: Obtener un carrito por el id
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea obtener
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se obtuvo el carrito correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#components/schemas/Cart'
+        "500":
+          description: Error interno del servidor
+    put:
+      summary: Actualizar el carrito por el id
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea actualizar
+          schema:
+            $type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#components/requestBodies/ProductToCart'
+      responses:
+        "200":
+          description: Se actualizo el carrito correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#components/schemas/Cart'
+        "500":
+          description: Error interno del servidor
+    delete:
+      summary: Vaciar el carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea vaciar
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se vació el carrito correctamente
+        "500":
+          description: Error interno del servidor
+  /api/carts/{cid}/product/{pid}:
+    post:
+      summary: Agregar producto al carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea obtener
+          schema:
+            $type: string
+        - name: pid
+          in: path
+          required: true
+          description: pid es el id del producto a agregar al carrito
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se agregó el producto con éxito al carrito
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#components/schemas/Cart'
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+    put:
+      summary: Agregar producto por cantidad al carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea obtener
+          schema:
+            $type: string
+        - name: pid
+          in: path
+          required: true
+          description: pid es el id del producto a agregar al carrito
+          schema:
+            $type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#components/requestBodies/ProductQty'
+      responses:
+        "200":
+          description: Se agregó el producto con éxito al carrito
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#components/schemas/Cart'
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+    delete:
+      summary: Borrar producto del carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea obtener
+          schema:
+            $type: string
+        - name: pid
+          in: path
+          required: true
+          description: pid es el id del producto a agregar al carrito
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se borró el producto con éxito del carrito
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#components/schemas/Cart'
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+  /api/carts/{cid}/purchase:
+    get:
+      summary: Finalizar compra del carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cid
+          in: path
+          required: true
+          description: cid es el id del carrito que desea obtener
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se realizó la compre del carrito correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#components/schemas/Cart'
+        "500":
+          description: Error interno del servidor
+
+components:
+  schemas:
+    Cart:
+      type: object
+      properties:
+        _id:
+          type: ObjectId
+          description: id del carrito autogenerado por la base de datos
+        products:
+          type: array
+          description: Productos dentro del carrito
+  requestBodies:
+    ProductToCart:
+      type: array
+      items:
+        type: object
+        properties:
+          _id:
+          type: ObjectId
+          description: Producto a agregar
+        quantity: 
+          type: number
+          description: Cantidad de unidades a agregar
+      example:
+        - _id: 6469a9165d1a7bfff9b59026
+          quantity: 2
+        - _id: 6469a94e5d1a7bfff9b59028
+          quantity: 1        
+    ProductQty:
+      type: object
+      properties:
+        quantity: 
+          type: number
+          description: Cantidad de unidades a agregar
+      example:
+        quantity: 2
