@@ -1,0 +1,229 @@
+paths:
+  /api/products/:
+    get:
+      summary: Obtener todos los productos
+      tags:
+        - Productos
+      responses:
+        "200":
+          description: Todos los productos se obtuvieron correctamente
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#components/schemas/Products"
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+    post:
+      summary: Agregar producto
+      tags:
+        - Productos
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#components/requestBodies/Product'
+      responses:
+        "200":
+          description: Productos agregado correctamente
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#components/schemas/Products"
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+  /api/products/{pid}:
+    get:
+      summary: Obtener un producto por el ID
+      tags:
+        - Productos
+      parameters:
+        - name: pid
+          in: path
+          required: true
+          description: pid es el id del producto que desea obtener
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se obtuvo el producto correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#components/schemas/Products'
+        "500":
+          description: Error interno del servidor
+    put:
+      summary: Actualizar un producto por el ID
+      tags:
+        - Productos
+      parameters:
+        - name: pid
+          in: path
+          required: true
+          description: pid es el id del producto que desea actualizar
+          schema:
+            $type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#components/requestBodies/Product'
+      responses:
+        "200":
+          description: Se actualizó el producto correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#components/schemas/Products'
+        "500":
+          description: Error interno del servidor
+    delete:
+      summary: Borrar un producto por el ID
+      tags:
+        - Productos
+      parameters:
+        - name: pid
+          in: path
+          required: true
+          description: pid es el id del producto que desea borrar
+          schema:
+            $type: string
+      responses:
+        "200":
+          description: Se borró el producto correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#components/schemas/Products'
+        "500":
+          description: Error interno del servidor
+  /api/products/mockingproducts:
+    get:
+      summary: Obtener mocking de productos con FAKER
+      tags:
+        - Productos
+      responses:
+        "200":
+          description: Todos los productos se obtuvieron correctamente
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#components/schemas/Products"
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+  /api/products/limitquery/?limit={limit}:
+    get:
+      summary: Obtener cantidad limitada de productos
+      tags:
+        - Productos
+      parameters:
+        - name: limit
+          in: path
+          required: true
+          description: limit es el límite de productos que desea obtener
+          schema:
+            $type: number
+      responses:
+        "200":
+          description: Los productos se obtuvieron correctamente
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#components/schemas/Products"
+        "401":
+          description: Error por falta de permisos
+        "500":
+          description: Error interno del servidor
+
+components:
+  schemas:
+    Products:
+      type: object
+      properties:
+        _id:
+          type: ObjectId
+          description: id del producto autogenerado por la base de datos
+        title: 
+          type: string
+          description: Titulo
+        description: 
+          type: string
+          description: Descripción
+        code: 
+          type: string
+          desciption: Codigo de producto
+        price: 
+          type: number
+          description: Precio
+        status: 
+          type: string
+          desciption: Estado del producto
+        stock: 
+          type: number
+          description: Cantidad de productos disponibles
+        category: 
+          type: string
+          description: Categoria
+        thumbnail: 
+          type: string
+          description: Imágen del producto
+        owner: 
+          type: ObjectId
+          description: Creador del producto
+  requestBodies:
+    Product:
+      type: object
+      properties:
+        title: 
+          type: string
+          description: Título
+        description: 
+          type: string
+          description: Descripción
+        code: 
+          type: string
+          desciption: Código de producto
+        price: 
+          type: number
+          description: Precio
+        status: 
+          type: string
+          desciption: Estado del producto
+        stock: 
+          type: number
+          description: Cantidad de productos disponibles
+        category: 
+          type: string
+          description: Categoria
+        thumbnail: 
+          type: string
+          description: Imágen del producto
+        owner: 
+          type: ObjectId
+          description: Creador del producto
+      example:
+        title: Prueba
+        description: Prueba
+        code: Prueba
+        price: 100
+        status: Prueba
+        stock: 100
+        category: Prueba
+        thumbnail: https://
+        owner: admin
