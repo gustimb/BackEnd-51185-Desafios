@@ -1,0 +1,20 @@
+<h1>Carrito: {{cid}}</h1>
+<a href="/products"><button>Volver a productos</button></a>
+<a href="/api/carts/{{cid}}/purchase"><button>Finalizar compra</button></a>
+<hr>
+{{#each products}}
+<p>Producto: {{_id.title}} </p>
+<p>Producto Id: {{_id._id}} </p>
+<p>Cantidad: {{quantity}} </p>
+<img src={{_id.thumbnail}} alt="{{_id.title}}" width="100px">
+<br>
+<form action="/api/carts/{{../cid}}/delete/{{_id._id}}" method="post">
+    <button type="submit"> - </button>
+</form>
+<br>
+<form action="/api/carts/{{../cid}}/product/{{_id._id}}" method="post">
+    <a href="/carts/{{../cid}}"><button type="submit">+</button></a>
+</form>
+
+<hr>
+{{/each}}

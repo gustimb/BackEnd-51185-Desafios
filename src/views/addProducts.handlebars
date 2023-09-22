@@ -1,0 +1,52 @@
+<h1>AGREGAR PRODUCTO</h1>
+
+{{!-- action="/api/products" method="post" --}}
+
+<div>
+    <form method="post" action="/api/products/">
+        <ul>
+            <li>
+                <label for="title">Nombre del producto:</label>
+                <input type="text" id="productName" placeholder="text" name="title">
+            </li>
+            <br>
+            <li>
+                <label for="description">Descripción del producto:</label>
+                <input type="text" id="productDescription" placeholder="text" name="description">
+            </li>
+            <br>
+            <li>
+                <label for="code">Código del producto:</label>
+                <input type="text" id="productCode" placeholder="text" name="code">
+            </li>
+            <br>
+            <li>
+                <label for="price">Precio del producto:</label>
+                <input type="number" id="productPrice" placeholder="number" name="price">
+            </li>
+            <br>
+            <li>
+                <label for="status">Estatus del producto:</label>
+                <input type="text" id="productStatus" placeholder="text" name="status">
+            </li>
+            <br>
+            <li>
+                <label for="stock">Stock del producto:</label>
+                <input type="number" id="productStock" placeholder="number" name="stock">
+            </li>
+            <br>
+            <li>
+                <label for="category">Categoría del producto:</label>
+                <input type="text" id="productCategory" placeholder="text" name="category">
+            </li>
+            <br>
+            <li>
+                <label for="thumbnail">URL imágen del producto:</label>
+                <input type="text" id="productThumbnail" placeholder="text" name="thumbnail">
+            </li>
+        </ul>
+        <button id="btnAddProducts" type="submit">Agregar producto</button>
+    </form>
+</div>
+
+<hr>
