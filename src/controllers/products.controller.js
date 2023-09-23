@@ -5,7 +5,7 @@ import { transporter, deletedProductTemplate } from "../config/gmail.js";
 
 import { CustomError } from "../services/customError.service.js";
 import { EError } from "../enums/EError.js";
-import { generateProductErrorInfo } from "../services/ProductErrorInfo.js";
+import { generateProductErrorInfo } from "../services/productErrorInfo.service.js";
 
 const productsService = new ProductsService();
 const sessionsService = new SessionsService();
