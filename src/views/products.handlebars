@@ -1,0 +1,41 @@
+<header>
+    <div>
+        <h3>Perfil</h3>
+
+        <p>Bienvenido [ {{user.first_name}} {{user.last_name}} - {{user.email}} - Acceso: {{user.role}} ]</p>
+
+        <a href="/carts/{{cartID}}"><button>Mi carrito</button></a>
+        <a href="/api/session/logout"><button>Cerrar sesión</button></a>
+    </div>
+</header>
+
+
+<hr>
+<h1>PRODUCTOS</h1>
+<hr>
+
+<div id="divProductos"></div>
+
+{{#each products}}
+<p>Producto: {{this.title}} </p>
+<p>Precio: ${{this.price}} </p>
+<p>Disponibles: {{this.stock}} </p>
+<img src={{this.thumbnail}} alt="{{this.title}}" width="100px">
+
+<form action="/api/carts/{{../cartID}}/product/{{this._id}}" method="post">
+    <button>Agregar al carrito</button>
+</form>
+<br>
+<a href="/products/{{this._id}}"><button>Detalles</button></a>
+<hr>
+{{/each}}
+
+{{#if hasPrevPage}}
+<a href="/products/?limit={{limit}}&page={{prevPage}}"><button>Página anterior</button></a>
+{{/if}}
+
+{{#if hasNextPage}}
+<a href="/products/?limit={{limit}}&page={{nextPage}}"><button>Página siguiente</button></a>
+{{/if}}
+
+<script src="/socket.io/socket.io.js"></script>

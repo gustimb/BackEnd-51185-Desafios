@@ -1,0 +1,25 @@
+{{!-- <h2>Cambiar rol de usuario</h2>
+<button method="post" action="/api/session/reset-password?token={{token}}">Restablecer contraseña</button>
+<hr>
+<h2></h2>
+<button method="post" action="/api/session/reset-password?token={{token}}">Restablecer contraseña</button>
+<hr>
+<h2></h2>
+<button method="post" action="/api/session/reset-password?token={{token}}">Restablecer contraseña</button>
+<hr> --}}
+
+<form method="post" action="api/users/user-details">
+    <input placeholder="ID de usuario" name="uidDetails" />
+    <button type="submit">Detalle del usuario</button>
+</form>
+<hr>
+<form method="post" action="api/users/user-details">
+    <input placeholder="ID de usuario" name="uidRoleChange" />
+    <button type="submit">Modificar rol de usuario</button>
+</form>
+<hr>
+<form method="post" action="api/users/user-details">
+    <input placeholder="ID de usuario" name="uidToDelete" />
+    <button type="submit">Eliminar usuario</button>
+</form>
+<hr>
